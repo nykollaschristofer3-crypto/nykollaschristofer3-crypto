@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nykollaschristofer3-crypto/nykollaschristofer3-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Nykollas!
 
-Here are some ideas to get you started:
+### 📚 Estudante • 💻 Tecnologia • 🔎 Curiosidade • 🚀 Aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/curioso.gif" width="220">
+
+<br>
+
+> **"Não tenho nenhum talento especial. Apenas sou apaixonadamente curioso."**
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+Olá! Sou um estudante que gosta de **aprender, descobrir e entender coisas novas**.
+
+Acredito que a curiosidade é uma das melhores ferramentas para evoluir.  
+Por isso, estou sempre procurando aprender algo diferente e transformar
+o que descubro em conhecimento.
+
+- 📚 Sempre buscando aprender
+- 🔎 Curioso sobre como as coisas funcionam
+- 💻 Explorando o mundo da tecnologia
+- 🧠 Desenvolvendo novos conhecimentos
+- 🚀 Transformando ideias em projetos
+
+---
+
+## 🎯 O que estou buscando
+
+```text
+📖 Aprender
+     ↓
+💡 Experimentar
+     ↓
+🛠️ Criar
+     ↓
+🧠 Evoluir
+     ↓
+🚀 Aprender ainda mais
