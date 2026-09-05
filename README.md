@@ -4,9 +4,9 @@
 
 ### 📚 Estudante • 💻 Tecnologia • 🔎 Curiosidade • 🚀 Aprendizado
 
-<img src="assets/curioso.gif" width="220">
+<img src="assets/nerd.gif" width="220">
 
-<br>
+<br><br>
 
 > **"Não tenho nenhum talento especial. Apenas sou apaixonadamente curioso."**
 
@@ -16,29 +16,43 @@
 
 ## 🧠 Sobre mim
 
-Olá! Sou um estudante que gosta de **aprender, descobrir e entender coisas novas**.
+Olá! 👋
 
-Acredito que a curiosidade é uma das melhores ferramentas para evoluir.  
-Por isso, estou sempre procurando aprender algo diferente e transformar
-o que descubro em conhecimento.
+Sou um estudante **curioso, dedicado e apaixonado por aprender**.
+Gosto de descobrir como as coisas funcionam e transformar minhas
+curiosidades em novos conhecimentos.
 
-- 📚 Sempre buscando aprender
-- 🔎 Curioso sobre como as coisas funcionam
-- 💻 Explorando o mundo da tecnologia
-- 🧠 Desenvolvendo novos conhecimentos
-- 🚀 Transformando ideias em projetos
+Acredito que não precisamos saber tudo de uma vez.
+O importante é **continuar aprendendo e evoluindo**.
+
+- 📚 Sempre buscando novos conhecimentos
+- 🔎 Curioso sobre tecnologia e o mundo ao meu redor
+- 💻 Explorando programação
+- 🧠 Desenvolvendo minhas habilidades
+- 🚀 Criando e experimentando novos projetos
+- 🎯 Sempre buscando melhorar
 
 ---
 
-## 🎯 O que estou buscando
+## 💻 Minha jornada na tecnologia
+
+Estou começando minha jornada no mundo da tecnologia e programação.
+
+Cada projeto é uma oportunidade para aprender alguma coisa nova.
 
 ```text
-📖 Aprender
-     ↓
-💡 Experimentar
-     ↓
-🛠️ Criar
-     ↓
-🧠 Evoluir
-     ↓
-🚀 Aprender ainda mais
+         🔎 Curiosidade
+              │
+              ▼
+         📚 Aprendizado
+              │
+              ▼
+          💡 Ideias
+              │
+              ▼
+         💻 Projetos
+              │
+              ▼
+          🚀 Evolução
+              │
+              └──────────► 🔎 Mais curiosidade
